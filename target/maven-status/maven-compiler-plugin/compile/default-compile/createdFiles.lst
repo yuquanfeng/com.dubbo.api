@@ -1,0 +1,5 @@
+bean\Friend.class
+bean\NFResult.class
+bean\User.class
+api\userservice\UserService.class
+api\friendservice\FriendService.class
